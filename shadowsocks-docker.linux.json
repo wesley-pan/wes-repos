@@ -71,7 +71,7 @@
               "osType": "linux",
               "codePackages": [
                 {
-                  "name": "helloWorldCode",
+                  "name": "shadowsocks-docker",
                   "image": "guolin/shadowsocks-docker",
                   "endpoints": [
                     {
